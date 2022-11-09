@@ -1,0 +1,100 @@
+{
+    "terror":  [
+    { "id": 1,
+    "nome": "hereditario",
+    "diretor": "ari aster",
+    "duracao": "2h 7m",
+    "lancamento": "21/06/2018"},
+
+    { "id": 2,
+    "nome": "corra",
+    "diretor": "jordan peele",
+    "duracao": "1h 44m",
+    "lancamento": "18/05/2017"},
+
+
+    { "id": 3,
+    "nome": "um lugar silencioso",
+    "diretor": "john krasinski",
+    "duracao": "1h 30min",
+    "lancamento": "05/04/2018"},
+
+    { "id": 4,
+    "nome": "a entidade",
+    "diretor": "Scott Derrickson",
+    "duracao": "1h 50m",
+    "lancamento": "12/10/2012"},
+
+    { "id": 5,
+    "nome": "o homem invisivel",
+    "diretor": "leigh whannell",
+    "duracao": "2h 5m",
+    "lancamento": "27/02/2020"}
+
+],
+    "acao":  [
+    { "id": 1,
+    "nome": "o espetacular homem aranha 2",
+    "diretor": "mark webb",
+    "duracao": "2h 22m",
+    "lancamento": "01/05/2014"},
+
+    { "id": 2,
+    "nome": "vingadores: guerra infinita",
+    "diretor": "anthony e joe russo",
+    "duracao": "2h 29m",
+    "lancamento": "26/04/2018"},
+
+
+    { "id": 3,
+    "nome": "vingadores: ultimato",
+    "diretor": "anthony e joe russo",
+    "duracao": "3h 2min",
+    "lancamento": "25/04/2019"},
+
+    { "id": 4,
+    "nome": "o homem de aco",
+    "diretor": "zack snyder",
+    "duracao": "2h 23m",
+    "lancamento": "12/07/2013"},
+
+    { "id": 5,
+    "nome": "liga da justiça de zack snyder",
+    "diretor": "zack snyder",
+    "duracao": "4h 2m",
+    "lancamento": "18/03/2021"}
+
+],
+    "ficcao cientifica":  [
+    { "id": 1,
+    "nome": "interestelar",
+    "diretor": "christopher nolan",
+    "duracao": "2h 49m",
+    "lancamento": "06/11/2014"},
+
+    { "id": 2,
+    "nome": "o paradoxo cloverfield",
+    "diretor": "julius onah",
+    "duracao": "1h 42m",
+    "lancamento": "04/02/2018"},
+
+
+    { "id": 3,
+    "nome": "vida",
+    "diretor": "daniel espinosa",
+    "duracao": "1h 50min",
+    "lancamento": "20/04/2017"},
+
+    { "id": 4,
+    "nome": "passageiro acidental",
+    "diretor": "joe penna",
+    "duracao": "1h 56m",
+    "lancamento": "24/06/2021"},
+
+    { "id": 5,
+    "nome": "ad astra - rumo as estrelas",
+    "diretor": "james gray",
+    "duracao": "2h 4m",
+    "lancamento": "26/09/2019"}
+    ]
+}

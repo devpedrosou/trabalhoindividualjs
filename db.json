@@ -1,77 +1,127 @@
 {
     "terror":  [
     { "id": 1,
-    "nome": "Matrix",
+    "nome1": "Matrix",
     "diretor": "Lana Wachoeski",
     "duracao": "2h 15m",
     "lancamento": "21/06/2018"},
 
     { "id": 2,
-    "nome": "Open windows",
+    "nome2": "Open windows",
     "diretor": "Nacho Vigalondo",
     "duracao": "1h 40m",
     "lancamento": "18/05/2014"},
 
 
     { "id": 3,
-    "nome": "Vigilante do amanhã",
+    "nome3": "Vigilante do amanhã",
     "diretor": "Rupert Sanders",
     "duracao": "1h 47m",
     "lancamento": "30/03/2017"},
 
     { "id": 4,
-    "nome": "O quinto poder",
+    "nome4": "O quinto poder",
     "diretor": "Bill Condon",
     "duracao": "2h 09m",
     "lancamento": "12/10/2014"},
 
     { "id": 5,
-    "nome": "Invasores",
+    "nome5": "Invasores",
     "diretor": "Baran bo Odar",
     "duracao": "1h 46m",
     "lancamento": "27/02/2020"},
 
     { "id": 6,
-    "nome": "Hacker",
+    "nome6": "Hacker",
     "diretor": "Michael Mann",
     "duracao": "2h 13m",
     "lancamento": "05/03/2015"},
 
     { "id": 7,
-    "nome": " A rede social",
+    "nome7": " A rede social",
     "diretor": "David Fincher",
     "duracao": "2h 00m",
     "lancamento": "03/12/2010"},
 
     { "id": 8,
-    "nome": "Batman - o cavaleiro das trevas",
+    "nome8": "Batman - o cavaleiro das trevas",
     "diretor": "Christopher Nolan",
     "duracao": "2h 32m",
     "lancamento": "18/07/2008"},
 
     { "id": 9,
-    "nome": "Batman - o cavaleiro das trevas - resurge",
+    "nome9": "Batman - o cavaleiro das trevas - resurge",
     "diretor": "christopher Nolan",
     "duracao": "2h 44m",
     "lancamento": "27/07/2012"},
 
     { "id": 10,
-    "nome": "liga da justiça de zack snyder",
+    "nome10": "liga da justiça de zack snyder",
     "diretor": "Zack Snyder",
     "duracao": "4h 02m",
     "lancamento": "27/02/2020"},
 
     { "id": 11,
-    "nome": "o espetacular homem aranha 2",
+    "nome11": "o espetacular homem aranha 2",
     "diretor": "Marc Webb",
     "duracao": "2h 22m",
     "lancamento": "01/03/2014"},
 
     { "id": 12,
-    "nome": "o homem de aco",
+    "nome12": "o homem de aco",
     "diretor": "Zack Snyder",
     "duracao": "2h 23m",
-    "lancamento": "12/07/2013"}
+
+    "lancamento": "12/07/2013"},
+    { "id": 13,
+    "nome13": "Vingadores - Guerra infinita",
+    "diretor": "Anthony e Joe Russo",
+    "duracao": "2h 36m",
+    "lancamento": "26/04/2018"},
+
+    { "id": 14,
+    "nome12": "Vingadores Ultimato",
+    "diretor": "Anthony e Joe Russo",
+    "duracao": "2h 23m",
+    "lancamento": "12/07/2013"},
+
+    { "id": 15,
+    "nome12": "Liga da justiça, guerra de apokolips",
+    "diretor": "Matt Peters",
+    "duracao": "1h 30m",
+    "lancamento": "12/02/2021"},
+
+
+    { "id": 16,
+    "nome12": "Sul",
+    "diretor": "Pete Docter",
+    "duracao": "1h 40m",
+    "lancamento": "25/12/2020"},
+
+    { "id": 17,
+    "nome12": "os Incríveis",
+    "diretor": "Brad Bird",
+    "duracao": "2h 03m",
+    "lancamento": "10/12/2004"},
+
+    { "id": 18,
+    "nome12": "Os Incríveis 2",
+    "diretor": "Brad Bird",
+    "duracao": "1h 58m",
+    "lancamento": "28/07/2018"},
+
+    { "id": 19,
+    "nome12": "Flash Point",
+    "diretor": "Jay Oliva",
+    "duracao": "1h 15m",
+    "lancamento": "30/07/2013"},
+
+    { "id": 20,
+    "nome12": "Encanto",
+    "diretor": "Charise Castro",
+    "duracao": "1h 43m",
+    "lancamento": "25/11/2021"}
+
 
 ],
     "acao":  [

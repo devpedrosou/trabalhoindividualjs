@@ -126,35 +126,35 @@
 ],
     "acao":  [
     { "id": 1,
-    "nome": "o espetacular homem aranha 2",
-    "diretor": "mark webb",
-    "duracao": "2h 22m",
-    "lancamento": "01/05/2014"},
+    "nome": "Duro de matar",
+    "diretor": "John MCtieman",
+    "duracao": "2h 12m",
+    "lancamento": "22/12/1988"},
 
     { "id": 2,
-    "nome": "vingadores: guerra infinita",
-    "diretor": "anthony e joe russo",
-    "duracao": "2h 29m",
-    "lancamento": "26/04/2018"},
+    "nome": "Truque de mestre",
+    "diretor": "Louis Leterrier",
+    "duracao": "2h 05m",
+    "lancamento": "5/07/2013"},
 
 
     { "id": 3,
-    "nome": "vingadores: ultimato",
-    "diretor": "anthony e joe russo",
-    "duracao": "3h 2min",
-    "lancamento": "25/04/2019"},
+    "nome": "O grande truque",
+    "diretor": "Christopher Nolan",
+    "duracao": "2h 8m",
+    "lancamento": "02/11/2006"},
 
     { "id": 4,
-    "nome": "o homem de aco",
-    "diretor": "zack snyder",
-    "duracao": "2h 23m",
-    "lancamento": "12/07/2013"},
+    "nome": "Dupla explosiva",
+    "diretor": "Patrick Hughes",
+    "duracao": "1h 58m",
+    "lancamento": "31/08/2017"},
 
     { "id": 5,
-    "nome": "liga da justiça de zack snyder",
-    "diretor": "zack snyder",
-    "duracao": "4h 2m",
-    "lancamento": "18/03/2021"}
+    "nome": "Ripd = agentes do além",
+    "diretor": "Robert Schwentke",
+    "duracao": "1h 36m",
+    "lancamento": "27/09/2013"}
 
 ],
     "ficcao cientifica":  [

@@ -1,35 +1,77 @@
 {
     "terror":  [
     { "id": 1,
-    "nome": "hereditario",
-    "diretor": "ari aster",
-    "duracao": "2h 7m",
+    "nome": "Matrix",
+    "diretor": "Lana Wachoeski",
+    "duracao": "2h 15m",
     "lancamento": "21/06/2018"},
 
     { "id": 2,
-    "nome": "corra",
-    "diretor": "jordan peele",
-    "duracao": "1h 44m",
-    "lancamento": "18/05/2017"},
+    "nome": "Open windows",
+    "diretor": "Nacho Vigalondo",
+    "duracao": "1h 40m",
+    "lancamento": "18/05/2014"},
 
 
     { "id": 3,
-    "nome": "um lugar silencioso",
-    "diretor": "john krasinski",
-    "duracao": "1h 30min",
-    "lancamento": "05/04/2018"},
+    "nome": "Vigilante do amanhã",
+    "diretor": "Rupert Sanders",
+    "duracao": "1h 47m",
+    "lancamento": "30/03/2017"},
 
     { "id": 4,
-    "nome": "a entidade",
-    "diretor": "Scott Derrickson",
-    "duracao": "1h 50m",
-    "lancamento": "12/10/2012"},
+    "nome": "O quinto poder",
+    "diretor": "Bill Condon",
+    "duracao": "2h 09m",
+    "lancamento": "12/10/2014"},
 
     { "id": 5,
-    "nome": "o homem invisivel",
-    "diretor": "leigh whannell",
-    "duracao": "2h 5m",
-    "lancamento": "27/02/2020"}
+    "nome": "Invasores",
+    "diretor": "Baran bo Odar",
+    "duracao": "1h 46m",
+    "lancamento": "27/02/2020"},
+
+    { "id": 6,
+    "nome": "Hacker",
+    "diretor": "Michael Mann",
+    "duracao": "2h 13m",
+    "lancamento": "05/03/2015"},
+
+    { "id": 7,
+    "nome": " A rede social",
+    "diretor": "David Fincher",
+    "duracao": "2h 00m",
+    "lancamento": "03/12/2010"},
+
+    { "id": 8,
+    "nome": "Batman - o cavaleiro das trevas",
+    "diretor": "Christopher Nolan",
+    "duracao": "2h 32m",
+    "lancamento": "18/07/2008"},
+
+    { "id": 9,
+    "nome": "Batman - o cavaleiro das trevas - resurge",
+    "diretor": "christopher Nolan",
+    "duracao": "2h 44m",
+    "lancamento": "27/07/2012"},
+
+    { "id": 10,
+    "nome": "liga da justiça de zack snyder",
+    "diretor": "Zack Snyder",
+    "duracao": "4h 02m",
+    "lancamento": "27/02/2020"},
+
+    { "id": 11,
+    "nome": "o espetacular homem aranha 2",
+    "diretor": "Marc Webb",
+    "duracao": "2h 22m",
+    "lancamento": "01/03/2014"},
+
+    { "id": 11,
+    "nome": "o homem de aco",
+    "diretor": "Zack Snyder",
+    "duracao": "2h 23m",
+    "lancamento": "12/07/2013"}
 
 ],
     "acao":  [

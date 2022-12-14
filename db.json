@@ -1,7 +1,7 @@
 {
     "terror":  [
     { "id": 1,
-    "imagem":" matrix.jpg",
+    "imagem":"matrix.jpg",
     "nome": "Matrix",
     "diretor": "Lana Wachoeski",
     "duracao": "2h 15m",
